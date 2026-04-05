@@ -1,8 +1,8 @@
 # 🐾 PetMe — Your AI Pet Companion to boost happiness
 
-PetMe is a cross-platform AI pet companion app available as both a **React Native mobile app** and a **React web app**. Users can chat with a lifelike AI pet, customize its appearance using AI image generation, and receive gentle emotional support with some psychological healing techniques — all delivered through the warm personality of their virtual companion.
-You can try the web version in http://138.197.89.249/petmeapp/
-More features and the mobile app version are under delopment. For example, the customized pet video generation feature will come soon. 
+- PetMe is a cross-platform AI pet companion app available as both a **React Native mobile app** and a **React web app**. Users can chat with a lifelike AI pet, customize its appearance using AI image generation, and receive gentle emotional support with some psychological healing techniques — all delivered through the warm personality of their virtual companion.
+- You can try the web version in http://138.197.89.249/petmeapp/
+- More features and the mobile app version are under delopment. For example, the customized pet video generation feature will come soon. 
 ---
 
 ## ✨ What It Does
