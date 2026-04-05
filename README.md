@@ -1,6 +1,6 @@
-# 🐾 PetMe — Your AI Pet Companion with Psychological Healing
+# 🐾 PetMe — Your AI Pet Companion to boost happiness
 
-PetMe is a cross-platform AI pet companion app available as both a **React Native mobile app** and a **React web app**. Users can chat with a lifelike AI pet, customize its appearance using AI image generation, and receive gentle emotional support through evidence-based psychological healing techniques — all delivered through the warm personality of their virtual companion.
+PetMe is a cross-platform AI pet companion app available as both a **React Native mobile app** and a **React web app**. Users can chat with a lifelike AI pet, customize its appearance using AI image generation, and receive gentle emotional support with some psychological healing techniques — all delivered through the warm personality of their virtual companion.
 
 ---
 
